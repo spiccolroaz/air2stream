@@ -14,15 +14,20 @@ email contacts: s.piccolroaz@unitn.it, marco.toffolon@unitn.it
 
 How to cite:
 
-- Toffolon M., and S. Piccolroaz (2015), A hybrid model for river water temperature as a function of air temperature and discharge, Environmental Research Letters, under review
+- Toffolon M., and S. Piccolroaz (2015), A hybrid model for river water temperature as a function of air temperature and discharge, Environmental Research Letters, 10(114011), doi:10.1088/1748-9326/10/11/114011
+
+- Piccolroaz S., E. Calamita, B. Majone, A. Gallice, A. Siviglia, and M. Toffolon (2016), Prediction of river water temperature: a comparison between a new family of hybrid models and statistical approaches, Hydrological Processes, 30(21), 3901–3917 doi:10.1002/hyp.10913
 
 Related articles (air2water: A model to predict Lake Surface Temperature using air temperature):
 
 - Piccolroaz S., M. Toffolon, and B. Majone (2013), A simple lumped model to convert air temperature into surface water temperature in lakes, Hydrol. Earth Syst. Sci., 17, 3323-3338, doi:10.5194/hess-17-3323-2013
 
-- Toffolon M., S. Piccolroaz, B. Majone, A.M. Soja, F. Peeters, M. Schmid and A. Wüest (2014), Prediction of surface water temperature from air temperature in lakes with different morphology, Limnology and Oceanography, 59(6), 2185-2202, doi: 10.4319/lo.2014.59.6.2185
+- Toffolon M., S. Piccolroaz, B. Majone, A.M. Soja, F. Peeters, M. Schmid and A. Wüest (2014), Prediction of surface water temperature from air temperature in lakes with different morphology, Limnology and Oceanography, 59(6), 2185-2202, doi:10.4319/lo.2014.59.6.2185
 
-- Toffolon M., S. Piccolroaz, and B. Majone (2015), The role of stratification on lakes' thermal response: The case of Lake Superior, Water Resources Research, doi: 10.1002/2014WR016555, in press
+- Toffolon M., S. Piccolroaz, and B. Majone (2015), The role of stratification on lakes' thermal response: The case of Lake Superior, Water Resources Research, 51(10), 7878-7894, doi:10.1002/2014WR016555 
+
+- Piccolroaz S. (2016), Prediction of lake surface temperature using the air2water model: guidelines, challenges, and future perspectives, Advances in Oceanography and Limnology, 7:36-50, DOI: http://dx.doi.org/10.4081/aiol.2016.5791
+
 -----------------------------------------------------------------------------------------------------------------------------------------
  
 How to use air2stream 
