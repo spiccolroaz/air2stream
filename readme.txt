@@ -29,6 +29,10 @@ Related articles (air2water: A model to predict Lake Surface Temperature using a
 - Piccolroaz S. (2016), Prediction of lake surface temperature using the air2water model: guidelines, challenges, and future perspectives, Advances in Oceanography and Limnology, 7:36-50, DOI: http://dx.doi.org/10.4081/aiol.2016.5791
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+!!!!!!!!!!!!!!!
+IMPORTANT NOTE: do not change the encoding of input files. They must be ANSI text files. UTF-8 encoded files cannot be read. I suggest using a simple text editor as Notepad++.
+!!!!!!!!!!!!!!!
+
  
 How to use air2stream 
 
@@ -87,6 +91,7 @@ see e.g.:
 		
 	NOTE: 	The series of observed air temperature and discharge must be complete. They cannot have gaps or no data. 
 		The series of observed water temperature can contain no-data (-999). 
+		The series of data must start on the 1st of January. If data are available after that date, air temperature should be reconstructed and the value -999 assigned to water temperature.
 		Both series are always at daily time scale, as the equation of the model is solved with daily time step. The model automatically evaluates weekly, multi-weekly, or monthly averages (of water temperature) when using different time scales for model calibration. 
 	
 -----> file 'parameters.txt'
